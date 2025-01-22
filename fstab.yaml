@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1N6JS_bOXwO3kaeVEtblxNQKOK0YiAO9u
+  /: 
+    url: "https://author-p115973-e1140754.adobeaemcloud.com/bin/franklin.delivery/rishgup2205/eds-test/main"
+    type: "markup"
+    suffix: ".html"
