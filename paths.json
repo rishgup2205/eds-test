@@ -1,5 +1,7 @@
 {
   "mappings": [
-    "/content/novo/:/"
+    "/content/novo/:/",
+	"/content/hmax/:/",
+	"/content/wknd/:/"
   ]
 }
